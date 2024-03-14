@@ -20,8 +20,17 @@ All you need is to open this project at Unity, press the play button, and have f
 
 ### 📸 Screenshots
 
-<img src="" alt="drawing" width="200"/>
+<!-- <img src="" alt="drawing" width="200"/> -->
+
+---
 
 ### 📋 TODO
 
 - [ ] Follow the step-by-step on the video tutorial.
+
+---
+
+### 📦 Resources
+
+#### Sprites:
+* [Characters and Particles](https://www.spriters-resource.com/mobile/angrybirds/sheet/59982/)
