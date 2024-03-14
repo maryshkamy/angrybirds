@@ -1,4 +1,5 @@
 # Angry Birds
+![Unity](https://badgen.net/badge/Unity/2022.3.21f1/green)
 
 **The Angry Birds game remake using [Unity](https://unity.com).**
 
