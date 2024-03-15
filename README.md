@@ -33,4 +33,6 @@ All you need is to open this project at Unity, press the play button, and have f
 ### 📦 Resources
 
 #### Sprites:
-* [Characters and Particles](https://www.spriters-resource.com/mobile/angrybirds/sheet/59982/)
+* [Characters & Enemies](https://www.spriters-resource.com/mobile/angrybirds/sheet/59982/)
+* [Backgrounds](https://www.spriters-resource.com/mobile/angrybirds/sheet/164811/)
+* [Miscellaneous](https://www.spriters-resource.com/mobile/angrybirds/sheet/159180/)
