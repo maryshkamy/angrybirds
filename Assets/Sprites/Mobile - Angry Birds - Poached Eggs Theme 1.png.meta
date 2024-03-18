@@ -108,7 +108,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Theme_Sky
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 487
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d2ee2f3e61489c8fdb94ad42e3d27
+      internalID: -1700113885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Theme_Ground
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 257
+        width: 343
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a951dbe0474c6c921d0735fdeaaca
+      internalID: -1139469093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Theme_Grass2
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 257
+        width: 340
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2396d66bad1fb466ba0b56fe13f41f2c
+      internalID: 129075150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +182,33 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mobile - Angry Birds - Poached Eggs Theme 1_0: -1594214688
+      Mobile - Angry Birds - Poached Eggs Theme 1_1: -587933151
+      Mobile - Angry Birds - Poached Eggs Theme 1_10: 983200654
+      Mobile - Angry Birds - Poached Eggs Theme 1_11: 603041920
+      Mobile - Angry Birds - Poached Eggs Theme 1_12: -1885191115
+      Mobile - Angry Birds - Poached Eggs Theme 1_13: 1225917485
+      Mobile - Angry Birds - Poached Eggs Theme 1_14: 1927327732
+      Mobile - Angry Birds - Poached Eggs Theme 1_15: 563968449
+      Mobile - Angry Birds - Poached Eggs Theme 1_16: -2132878184
+      Mobile - Angry Birds - Poached Eggs Theme 1_17: 1661729467
+      Mobile - Angry Birds - Poached Eggs Theme 1_18: -1047157081
+      Mobile - Angry Birds - Poached Eggs Theme 1_19: -196352578
+      Mobile - Angry Birds - Poached Eggs Theme 1_2: -505297054
+      Mobile - Angry Birds - Poached Eggs Theme 1_20: -719777160
+      Mobile - Angry Birds - Poached Eggs Theme 1_21: 31002187
+      Mobile - Angry Birds - Poached Eggs Theme 1_22: -134394877
+      Mobile - Angry Birds - Poached Eggs Theme 1_23: 1906716922
+      Mobile - Angry Birds - Poached Eggs Theme 1_24: 608119741
+      Mobile - Angry Birds - Poached Eggs Theme 1_25: -253187843
+      Mobile - Angry Birds - Poached Eggs Theme 1_5: 1075123649
+      Mobile - Angry Birds - Poached Eggs Theme 1_7: 1480612487
+      Mobile - Angry Birds - Poached Eggs Theme 1_8: 12718954
+      Mobile - Angry Birds - Poached Eggs Theme 1_9: -1315465203
+      Theme_Grass2: 129075150
+      Theme_Ground: -1139469093
+      Theme_Sky: -1700113885
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
