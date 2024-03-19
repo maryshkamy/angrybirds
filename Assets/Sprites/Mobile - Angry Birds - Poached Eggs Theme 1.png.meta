@@ -45,7 +45,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -134,9 +134,9 @@ TextureImporter:
       name: Theme_Ground
       rect:
         serializedVersion: 2
-        x: 590
+        x: 591
         y: 257
-        width: 343
+        width: 342
         height: 203
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
