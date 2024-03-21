@@ -17,7 +17,7 @@ public class SlingshotHandler : MonoBehaviour
 
     private void Start()
     {
-        SetLines(_idlePosition.position);
+        SetLines(_centerPosition.position);
     }
 
     private void Update()
